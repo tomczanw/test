@@ -12,7 +12,7 @@ public class Main {
 
         LocalDate localDate = LocalDate.now();
 
-        System.out.println(localDate);
+        System.out.println(localDate + "sssd");
 
 
     }
