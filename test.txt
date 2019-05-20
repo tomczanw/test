@@ -8,6 +8,12 @@ fixing something
 bugfix3 
 try new branches
 
+<<<<<<< HEAD
 commit to  develop
 
 checkout bugfix 4
+=======
+bugfix3
+
+buggsdfs
+>>>>>>> bugfix3
