@@ -12,6 +12,8 @@ public class Main {
 
         LocalDate localDate = LocalDate.now();
 
+        System.out.println(localDate);
+
 
     }
 }
