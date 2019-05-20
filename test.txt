@@ -9,3 +9,5 @@ bugfix3
 try new branches
 
 commit to  develop
+
+checkout bugfix 4
